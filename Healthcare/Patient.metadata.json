@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"Healthcare.Patient"}],"uuid":"34e779eaa30b437b8580625ef30aeed4"}
